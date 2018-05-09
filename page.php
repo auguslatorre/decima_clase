@@ -9,7 +9,7 @@ $csv = array_map('str_getcsv', file('https://raw.githubusercontent.com/auguslato
 ?>
 
 <main role="main" class="container">
-<h1 class="mb-4">Top 20</h1>
+<h1 class="mb-4">Series</h1>
 <div class="row">
 
 <?php for($t = 0; $t < count($csv); $t++){?>
