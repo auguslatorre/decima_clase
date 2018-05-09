@@ -33,7 +33,7 @@
             <?php } else { ?>
             <li class="nav-item">
             <?php };?>
-              <a class="nav-link" href="page.php">Top 20</a>
+              <a class="nav-link" href="page.php">Series</a>
             </li>
           </ul>
         </div>
